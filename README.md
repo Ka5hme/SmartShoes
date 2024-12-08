@@ -12,7 +12,7 @@ A shoe that creates a real-time contour map of your foot while in use.
 # Contour Map
 ![image](https://github.com/user-attachments/assets/71adf576-30a2-459b-bc0d-450514c48274)
 
-# Final Project
+# Final Product
 ![image](https://github.com/user-attachments/assets/7872fd8c-6fcd-46ac-9133-525e0ad6676b)
 
 
