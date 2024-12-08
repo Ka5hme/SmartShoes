@@ -6,7 +6,12 @@ A shoe that creates a real-time contour map of your foot while in use.
 - Resistors
 - Analog to Digital Converter (ADC)
 - Power Supply/Battery
-# Contour Map
+# Block Diagram
+![image](https://github.com/user-attachments/assets/0ca6ac09-768a-49f8-91cb-22a665411ef7)
 
-[Contour Map.pdf](https://github.com/user-attachments/files/18050406/Contour.Map.pdf)
+# Contour Map
+![image](https://github.com/user-attachments/assets/71adf576-30a2-459b-bc0d-450514c48274)
+
+
+
 
